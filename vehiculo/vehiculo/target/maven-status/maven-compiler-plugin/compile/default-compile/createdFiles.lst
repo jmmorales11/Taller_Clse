@@ -1,0 +1,6 @@
+com\vehiculo\vehiculo\Repository\IVehiculoRepository.class
+com\vehiculo\vehiculo\Service\IVehiculoService.class
+com\vehiculo\vehiculo\Controller\vehiculoController.class
+com\vehiculo\vehiculo\Entity\Vehiculo.class
+com\vehiculo\vehiculo\Service\VehiculoService.class
+com\vehiculo\vehiculo\VehiculoApplication.class
